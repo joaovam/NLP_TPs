@@ -1,0 +1,3 @@
+[submodule "TP1/word2vec"]
+	path = TP1/word2vec
+	url = https://github.com/nicholas-leonard/word2vec
